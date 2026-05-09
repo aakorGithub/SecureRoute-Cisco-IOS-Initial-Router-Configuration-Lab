@@ -135,4 +135,4 @@ This lab was completed as part of my Information Systems degree coursework and C
 ## Contact
 
 **[Your Name]**  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername) | your.email@email.com
+[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/anthony-akor/)) | [GitHub]([https://github.com/yourusername](https://github.com/aakorGithub)) | anthonyakor@yahoo.com
